@@ -8,7 +8,7 @@ To get your token:
  - Goto http://homeassistant.local:8123/profile
  - Scroll to "Long-Lived Access Tokens"
  - Create a token
- - Copy the token it gives you and put it into HomeassistantToken= in battery.ini 
+ - Copy the token it gives you and put it into HomeassistantToken= in `@Resources\Variables.inc`
 
 # example images
 ![image1](https://github.com/iamasink/Rainmeter-homeassistantbattery/assets/35533595/440b6dd9-c3c5-4bbe-8ef6-f3786e00ce46)
