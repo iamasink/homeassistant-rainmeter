@@ -1,4 +1,6 @@
 # home assistant battery level rainmeter skin :3
+A Rainmeter skin which uses the Home Assistant API to get the battery state of a device, and display it on your desktop.  
+  
 You will have to modify the skin to include:
  - Your device name
  - Your home assistant url
@@ -10,12 +12,13 @@ To get your token:
  - Create a token
  - Copy the token it gives you and put it into HomeassistantToken= in `@Resources\Variables.inc`
 
+You might also need to enable some stuff in the app on your phone:  
+Home Assistant App -> Settings -> Companion App -> Manage Sensors -> Enable `Battery Level` and `Is Charging`
+
 # example images
 ![image1](https://github.com/iamasink/Rainmeter-homeassistantbattery/assets/35533595/440b6dd9-c3c5-4bbe-8ef6-f3786e00ce46)
 ![image2](https://github.com/iamasink/Rainmeter-homeassistantbattery/assets/35533595/cbba36d5-002c-45cf-ae47-aaaa2a8e5e95)  
 note to get multiple, you have to install the skin once, rename the installed folder and install it again.
-
-
 
 
 # credits
