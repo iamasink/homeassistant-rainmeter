@@ -1,5 +1,7 @@
 # home assistant battery level rainmeter skin :3
 A Rainmeter skin which uses the Home Assistant API to get the battery state of a device, and display it on your desktop.  
+
+---
   
 You will have to modify the skin to include:
  - Your device name
