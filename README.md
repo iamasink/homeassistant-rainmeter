@@ -12,7 +12,7 @@ To get your token:
 
 # example images
 ![image1](https://github.com/iamasink/Rainmeter-homeassistantbattery/assets/35533595/440b6dd9-c3c5-4bbe-8ef6-f3786e00ce46)
-![image2](https://github.com/iamasink/Rainmeter-homeassistantbattery/assets/35533595/cbba36d5-002c-45cf-ae47-aaaa2a8e5e95)
+![image2](https://github.com/iamasink/Rainmeter-homeassistantbattery/assets/35533595/cbba36d5-002c-45cf-ae47-aaaa2a8e5e95)  
 note to get multiple, you have to install the skin once, rename the installed folder and install it again.
 
 
