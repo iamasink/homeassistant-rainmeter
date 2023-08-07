@@ -15,7 +15,8 @@ To get your token:
  - Copy the token it gives you and put it into HomeassistantToken= in `@Resources\Variables.inc`
 
 You might also need to enable some stuff in the app on your phone:  
-Home Assistant App -> Settings -> Companion App -> Manage Sensors -> Enable `Battery Level` and `Is Charging`
+Home Assistant App -> Settings -> Companion App -> Manage Sensors -> Ensure `Battery Level` and `Charger Type` are enabled  
+However these are enabled by default, so this shouldn't be necessary.
 
 # example images
 ![image1](https://github.com/iamasink/Rainmeter-homeassistantbattery/assets/35533595/440b6dd9-c3c5-4bbe-8ef6-f3786e00ce46)
