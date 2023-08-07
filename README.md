@@ -19,8 +19,8 @@ Home Assistant App -> Settings -> Companion App -> Manage Sensors -> Ensure `Bat
 However these are enabled by default, so this shouldn't be necessary.
 
 # example images
-![image1](https://github.com/iamasink/batterydisplay/assets/35533595/c3b8b557-3e8f-4f11-bb50-0a350334cb85)
-note to get multiple, you have to install the skin once, rename the installed folder and install it again.
+![image1](https://github.com/iamasink/batterydisplay/assets/35533595/c3b8b557-3e8f-4f11-bb50-0a350334cb85)   
+note to get multiple battery levels, you have to install the skin once, rename the installed folder and install it again (or copy paste the old one)
 
 
 # credits
