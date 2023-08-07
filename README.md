@@ -24,7 +24,7 @@ note to get multiple battery levels, you have to install the skin once, rename t
 
 
 # credits
-Battery Icons from [Pictogrammers](https://pictogrammers.com/library/mdi/), and modified by me to fit the skin.  
+Battery Icons from [Pictogrammers](https://pictogrammers.com/library/mdi/category/battery/), and modified by me to fit the skin.  
 They are renamed as such:  
 battery-outline -> battery-off0  
 battery-charging-outline -> battery-on0  
