@@ -1,5 +1,8 @@
-# home assistant battery level rainmeter skin :3
-A Rainmeter skin which uses the Home Assistant API to get the battery state of a device, and display it on your desktop.  
+# home assistant rainmeter
+My rainmeter skins using homeassistant  
+There are two skins: batterydisplay and binarysensor.  
+They use the Home Assistant API to get the battery, or binary state of a device respectively.  
+They support common icon types, such as Door, Window, Lock, Light  
 
 ---
   
@@ -19,15 +22,35 @@ Home Assistant App -> Settings -> Companion App -> Manage Sensors -> Ensure `Bat
 However these are enabled by default, so this shouldn't be necessary.
 
 # example images
-![image1](https://github.com/iamasink/batterydisplay/assets/35533595/c3b8b557-3e8f-4f11-bb50-0a350334cb85)   
-note to get multiple battery levels, you have to install the skin once, rename the installed folder and install it again (or copy paste the old one)
+![image1](https://github.com/iamasink/rainmeter-homeassistant/assets/35533595/440b6dd9-c3c5-4bbe-8ef6-f3786e00ce46)
+![image2](https://github.com/iamasink/rainmeter-homeassistant/assets/35533595/cbba36d5-002c-45cf-ae47-aaaa2a8e5e95)  
+note to get multiple, you have to install the skin once, rename the installed folder and install it again.
 
 
 # credits
-Battery Icons from [Pictogrammers](https://pictogrammers.com/library/mdi/category/battery/), and modified by me to fit the skin.  
+Icons from [Pictogrammers](https://pictogrammers.com/library/mdi/), and slightly modified by me to fit the skin.  
+
 They are renamed as such:  
-battery-outline -> battery-off0  
-battery-charging-outline -> battery-on0  
-battery-10 through battery-90-> battery-off10 through battery-off90  
-battery-charging-10 through battery-charging-100 -> battery-on10 through battery-on100  
-battery -> battery-off100  
+for batterydisplay:  
+- battery-outline -> battery-off0  
+- battery-charging-outline -> battery-on0  
+- battery-10 through battery-90-> battery-off10 through battery-off90  
+- battery-charging-10 through battery-charging-100 -> battery-on10 through battery-on100  
+- battery -> battery-off100  
+
+for binarysensor:  
+- brightness-5 -> light-off  
+- brightness-7 -> light-on  
+- door-closed -> door-off  
+- door-open -> door-on  
+- garage -> garage-on  
+- garage-open -> garage-off  
+- lock -> lock-off  
+- lock-open -> lock-on  
+- snowflake -> cold-on  
+- thermometer -> cold-off  
+- square -> opening-off  
+- square-outline -> opening-on  
+- window-open -> window-on  
+- window-close -> window-off  
+- help-box-outline -> unknown  
