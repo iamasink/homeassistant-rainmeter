@@ -22,9 +22,9 @@ Home Assistant App -> Settings -> Companion App -> Manage Sensors -> Ensure `Bat
 However these are enabled by default, so this shouldn't be necessary.
 
 # example images
-![image1](https://github.com/iamasink/rainmeter-homeassistant/assets/35533595/440b6dd9-c3c5-4bbe-8ef6-f3786e00ce46)
-![image2](https://github.com/iamasink/rainmeter-homeassistant/assets/35533595/cbba36d5-002c-45cf-ae47-aaaa2a8e5e95)  
-note to get multiple, you have to install the skin once, rename the installed folder and install it again.
+![image](https://github.com/iamasink/homeassistant-rainmeter/assets/35533595/01f14071-be89-4a52-8e08-35551cf4144a)
+
+note to get multiple of the same type, you have to install the skin once, rename the installed folder and install it again, or copy paste the skin folder.
 
 
 # credits
